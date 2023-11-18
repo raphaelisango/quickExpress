@@ -4,7 +4,8 @@
   "description": "setup server and manage routes as quick as possible",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "node test.js",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
